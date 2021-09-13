@@ -9,6 +9,7 @@
 The end results displayed the refactored code, running the macro for the "2017" sheet, to be 2.515625 seconds faster than the original code, as shown by the images below:
 ![](Resources/2017_run_time_original.png)
 ![](Resources/2017_run_time_refactored.png)
+---
 ### 2018 All Stocks Analysis Run Time Results
 The end results displayed the refactored code, running the macro for the "2018" sheet, to be 2.1171875 seconds faster than the original code, as shown by the images below:
 ![](Resources/2018_run_time_original.png)
