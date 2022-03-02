@@ -1,7 +1,7 @@
 # Stock-Analysis
 ## Overview of Project
 ### Purpose
-* This macro provides stock analysis with just the click of a button. Once the button is clicked, the VBA script loops through all of the stock data for the selected year and     displays each stock's respective total volume, and return (written as a percent change). Further, the macro is programmed to format all positive returns in green, and all       negative returns in red, allowing the end-user to process the macro's analysis more efficiently through visual representation.
+* This macro provides stock analysis with just the click of a button. Once the button is clicked, the VBA script loops through all of the stock data for the selected year and     displays each stock's total volume and respective return (written as a percent change). Further, the macro is programmed to format all positive returns in green, and all       negative returns in red, allowing the end-user to process the macro's analysis more efficiently through visual representation.
 * In addition, my refactoring skills were put to work when I decided to refactor my original code with the goal of decreasing the overall run time of the macro.
 ---
 ## Results
