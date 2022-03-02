@@ -37,8 +37,7 @@
 ![](Resources/original_code.png)
 ## Refactored
 1. One advantage of the refactored code is that it combines the formatting macro and stock analysis macro into one macro, thereby, only one button needs to be clicked from the front-end to run the entire macro. 
-2. In addition, the refactored script does not use a nested for loop, but rather uses one primary for loop to obtain all the desired stock data. It does this by making use of two other for loops that act in sequence to help the primary for loop execute its desired functions successfully. 
-3. The refactored code also makes use of a "tickerindex" variable that helps the different arrays within the primary for loop keep track of the current ticker being iterated. The following is a picture of the refactored code:
+2. In addition, the refactored script does not use a nested for loop, but rather uses one primary for loop to obtain all the desired stock data. It does this by making use of two other for loops that act in sequence to help the primary for loop execute its desired functions successfully. The refactored code also makes use of a "tickerindex" variable that helps the different arrays within the primary for loop keep track of the current ticker being iterated. The following is a picture of the refactored code:
 
 #### ***Final/Refactored Macro Code***
 ![](Resources/refactored_code.png)
