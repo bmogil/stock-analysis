@@ -44,4 +44,4 @@
 ---
 ## Conclusion
 * All in all, this macro supplies easy, smooth, accurate, and visually appealing stock analysis through the simple click of a button done from the front-end excel worksheet (you   don't have to be tech-savvy to run this macro).
-* Also, the macro is robust since I can easily apply slight modifications to the script that would allow it to run with any stock data it is provided with.
+* Also, the macro is robust since I can easily apply slight modifications to the script that would allow it to run with any stock data I am provided with.
